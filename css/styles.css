@@ -513,7 +513,7 @@ video {
 @font-face {
   font-family: Oswald;
 
-  src: url(/dist/fonts/Oswald/Oswald-Bold.ttf) format("truetype");
+  src: url(/fonts/Oswald/Oswald-Bold.ttf) format("truetype");
 }
 
 body {
